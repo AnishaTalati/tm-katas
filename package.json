@@ -1,18 +1,26 @@
 {
-  "name": "Katas",
+  "name": "katas",
   "version": "1.0.0",
-  "description": "",
   "main": "reverseString.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishaTalati/tm-katas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnishaTalati/tm-katas/issues"
+  },
+  "homepage": "https://github.com/AnishaTalati/tm-katas#readme",
+  "description": ""
 }
